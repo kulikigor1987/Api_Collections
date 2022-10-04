@@ -1,1 +1,1 @@
-Пример коллкции, созданный в postman
+The example of collection created in Postman
